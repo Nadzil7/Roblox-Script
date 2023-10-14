@@ -1,0 +1,3 @@
+--New4
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+-- Discord Link: https://discord.com/invite/bedol-hub
